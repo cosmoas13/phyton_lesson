@@ -21,3 +21,6 @@ class Food(MenuItem):
 
     def calorie_info(self):
         print("kkal: " + str(self.calorie_count))
+
+
+#
